@@ -1,0 +1,22 @@
+{
+  "name": "git-loc-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-core": "6.5.1",
+    "babel-loader": "6.2.2",
+    "babel-preset-es2015": "6.5.0",
+    "babel-preset-react": "6.5.0",
+    "gulp": "3.9.1",
+    "gulp-babel": "6.1.2",
+    "gulp-plumber": "1.1.0",
+    "gulp-watch": "4.3.5",
+    "jquery": "2.2.0",
+    "react": "0.14.7",
+    "react-dom": "0.14.7",
+    "webpack-stream": "3.1.0"
+  },
+  "babel": {
+    "presets": ["es2015"]
+  }
+}
