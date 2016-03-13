@@ -2,7 +2,7 @@ import $ from 'jquery';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const URL = "http://gitloc.chowdhurya.com";
+const URL = "https://gitloc.chowdhurya.com";
 
 const statuses = {
   START: 0,
